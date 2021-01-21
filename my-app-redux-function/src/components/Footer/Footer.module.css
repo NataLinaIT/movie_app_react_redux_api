@@ -1,0 +1,31 @@
+.footer {
+  background-color: #042442;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px 70px;
+  margin-top: 120px;
+}
+.logo {
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #2DB9D4;
+}
+.footer ul li {
+  list-style: none;
+  cursor: pointer;
+  opacity: 0.6;
+}
+@media (max-width: 1260px) {
+  .footer {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .footer div {
+    margin-bottom: 30px;
+  }
+
+}

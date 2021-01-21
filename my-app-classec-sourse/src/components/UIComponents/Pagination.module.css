@@ -1,0 +1,17 @@
+.pagination_wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 70px;
+  margin-top: 30px;
+}
+.pagination_wrapper ul{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 280px;
+}
+.pagination_wrapper li{
+ cursor: pointer;
+ color: rgb(18, 18, 54);
+}

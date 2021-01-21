@@ -1,0 +1,10 @@
+.navbar.navbar-dark.bg-primary {
+  background-color: #042442 !important;
+  height: 80px;
+}
+
+.navbar.navbar-dark .nav-link {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #2db9d4 !important;
+}

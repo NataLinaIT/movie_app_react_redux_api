@@ -1,0 +1,50 @@
+.movie_card {
+  height: 410px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 26px;
+}
+.card_img__height {
+  height: 280px;
+  object-fit: cover;
+}
+.rating {
+  font-size: 1.15em;
+  width: 38px;
+  height: 38px;
+  color: #ffffff;
+  background-color: #081c22;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -40px;
+  margin-bottom: 10px;
+  border-top: 2px solid rgb(65, 119, 219);
+}
+.card_title {
+  display: inline-block;
+  color: rgb(17, 16, 16);
+  font-size: 1em;
+  height: 24px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.buttons_wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.buttons_wrapper button {
+  display: flex;
+  background-color: #27A844;
+  border: none;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+}
+.buttons_wrapper .btn_remove, 
+.buttons_wrapper .delete_btn {
+  background-color: #eef0ee;
+}

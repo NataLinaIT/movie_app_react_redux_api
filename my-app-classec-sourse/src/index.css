@@ -1,0 +1,43 @@
+body {
+  background: #fdfdfd;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.invalid-feedback {
+  display: block;
+}
+input.invalid {
+  border: 1px solid #dc3545 !important;
+}
+button:focus,
+button:active,
+input:focus,
+input:active,
+select:focus,
+select:active,
+.form-control:focus,
+.btn-outline-dark {
+  outline: none;
+  border-color: none !important;
+}
+.btn-success {
+  width: 100px;
+}
+.form-control {
+  background-color: rgb(247, 247, 247);
+}
+.form-check {
+  margin-bottom: 5px;
+}
+.form-check-wrapper {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.btn-outline-dark {
+  border: none;
+  background-color: rgb(243, 244, 247);
+  margin-bottom: 30px;
+}
+.btn-outline-dark.focus,
+.btn-outline-dark:focus {
+  box-shadow: none;
+}
