@@ -4,9 +4,10 @@
 * React.js
 * Redux | React-redux
 * API 
-* reactstrap
 * universal-cookie
+* reactstrap
 * node-sass, bootstrap
+* classnames
 
 ## Available Scripts
 
