@@ -3,7 +3,7 @@
 ### Technologies used:
 * React.js
 * Redux | React-redux
-* API 
+* The Movie Database API
 * universal-cookie
 * reactstrap
 * node-sass, bootstrap
