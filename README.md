@@ -6,6 +6,7 @@
 * API 
 * reactstrap
 * universal-cookie
+* node-sass, bootstrap
 
 ## Available Scripts
 
