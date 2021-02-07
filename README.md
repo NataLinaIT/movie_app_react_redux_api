@@ -6,7 +6,8 @@
 * The Movie Database API
 * universal-cookie
 * reactstrap
-* node-sass, bootstrap
+* bootstrap
+* node-sass
 * classnames
 
 ## Available Scripts
